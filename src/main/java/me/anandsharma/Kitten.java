@@ -17,4 +17,8 @@ public class Kitten {
     public void bugfix(String todo) {
         System.out.println("bugfix " + todo);
     }
+
+    public void hotfix(String todo) {
+        System.out.println("hotfix " + todo);
+    }
 }
