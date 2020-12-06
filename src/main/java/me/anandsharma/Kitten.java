@@ -33,4 +33,8 @@ public class Kitten {
     public void feature4() {
         System.out.println("feature 4");
     }
+
+    public void feature5() {
+        System.out.println("feature 5");
+    }
 }
