@@ -21,4 +21,8 @@ public class Kitten {
     public void hotfix(String todo) {
         System.out.println("hotfix " + todo);
     }
+
+    public void feature2() {
+        System.out.println("todo");
+    }
 }
