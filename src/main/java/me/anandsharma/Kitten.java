@@ -13,4 +13,8 @@ public class Kitten {
     public void freakOut() {
         System.out.println("I am a cat, and yet, I am freaking out right now...");
     }
+
+    public void bugfix(String todo) {
+        System.out.println("bugfix " + todo);
+    }
 }
