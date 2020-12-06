@@ -25,4 +25,8 @@ public class Kitten {
     public void feature2() {
         System.out.println("todo");
     }
+
+    public void feature3() {
+        System.out.println("todo");
+    }
 }
