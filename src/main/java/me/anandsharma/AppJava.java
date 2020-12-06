@@ -9,4 +9,3 @@ public class AppJava {
         System.out.println(new AppJava().getGreeting());
     }
 }
-
